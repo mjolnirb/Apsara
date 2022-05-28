@@ -1,6 +1,8 @@
 pip install pyttsx3
 pip install pyaudio
 pip install SpeechRecognition
+pip install wikipedia
+pip install pyjokes
 ----------------------------------
 #to upgrade pip
 pip install --upgrade pip
